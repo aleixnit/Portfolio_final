@@ -468,10 +468,10 @@ body.nav-active .nav__list-item:nth-child(10) {
 
 @media screen and (max-width: 780px){
     .switch-wrap {
-        width: 75%;
+        width: 85%;
         position: absolute;
-        top: 52%;
-        left: 13%;
+        top: center;
+        left: center;
         z-index: 10;
         transform: translateY(-50%);
         -webkit-transition: all 500ms linear;
