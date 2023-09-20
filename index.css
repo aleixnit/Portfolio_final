@@ -493,7 +493,7 @@ body.nav-active .nav__list-item:nth-child(10) {
 		font-weight: 400;
 		font-size: 12px;
 		letter-spacing: 1px;
-		line-height: 1.9;
+		/* line-height: 1.9; */
 		color: #ffffff;
 		text-align: center;
 		margin-top: 15px;
@@ -533,9 +533,8 @@ body.nav-active .nav__list-item:nth-child(10) {
 		border-bottom-right-radius: 0px;
 		border: 4px solid lime;
 		margin-top: 4vw;
-		position: relative;
-		right: -20%;
-		top: 0;
+		margin-left: 20vw;
+		margin-right: 20vw;
 	  }
 	  .about_foto {
 		/* width: 100px; */
