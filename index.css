@@ -491,9 +491,9 @@ body.nav-active .nav__list-item:nth-child(10) {
 
 	.switch-wrap p {
 		font-weight: 400;
-		font-size: 12px;
+		font-size: 14px;
 		letter-spacing: 1px;
-		/* line-height: 1.9; */
+		line-height: 1.9;
 		color: #ffffff;
 		text-align: center;
 		margin-top: 15px;
